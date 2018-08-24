@@ -3,8 +3,8 @@
   "description": "RESTful API's with user authentication",
   "author": "Santosh K. Pradhan",
   "repository": {
-    "type": "git",
-    "url": ""
+    "type": "github",
+    "url": "https://github.com/santosh-k-pradhan/RESTful-API-s-with-user-authentication.git"
   },
   "main": "server.js",
   "dependencies": {
