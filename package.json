@@ -1,0 +1,24 @@
+{
+  "name": "node-rest-auth",
+  "description": "RESTful API's with user authentication",
+  "author": "Santosh K. Pradhan",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "body-parser": "~1.9.2",
+    "cors": "^2.8.4",
+    "express": "~4.9.8",
+    "jwt-simple": "^0.3.1",
+    "mongoose": "~4.2.4",
+    "morgan": "~1.5.0",
+    "passport": "^0.3.0",
+    "passport-jwt": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
